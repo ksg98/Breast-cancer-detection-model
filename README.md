@@ -24,7 +24,7 @@ Let's take a look at the cancer diagnosis and classification process.
 So the first step in the cancer diagnosis process is to do what we call it final needle aspirate or
 if any process which is simply extracting some of the cells out of the tumor.
 And at that stage we don't know if that human is malignant or benign.
-When you say malignant or benign as you guys can see these are kind of the images of the this would
+When you say malignant or benign , these are kind of the images of the this would
 be benign tumor and this is the malignant tumor.
 And when we say benign that means that the tumor is kind of not spreading across the bodies of the patient
 is safe somehow.
